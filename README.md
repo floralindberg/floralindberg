@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-I am a second-year student pursuing a Bachelor's in Computer Engineering at KTH.
+I am a third-year student pursuing a Bachelor's in Computer Engineering at KTH.
 
 ## Skills
 - Java
