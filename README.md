@@ -10,7 +10,7 @@ I am a third-year student pursuing a Bachelor's in Computer Engineering at KTH.
 - HTML
 - CSS
 - SQL
-- Pyhton
+- Python
 - MATLAB / Mathematica
 
 ## Companies
